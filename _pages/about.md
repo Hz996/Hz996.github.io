@@ -13,7 +13,7 @@ This is the homepage of Hao Zhang, a graduate student pursuing a Master of Scien
 
 ## About Me
 
-I completed my Bachelor's in Electrical Engineering from the University of Cincinnati and Chongqing University (as part of a 4+1 program), achieving academic excellence with a GPA of 3.64/4.0. My current research interests include upgrading robotic systems, developing human-robot interfaces, and implementing control systems for rehabilitation robots.
+I completed my Bachelor's in Electrical Engineering from the University of Cincinnati and Chongqing University (as part of a 4+1 program), achieving academic excellence with a GPA of 3.64/4.0. My current research interests include robotics, embedded systems, and human-robot interaction.
 
 I am currently working as a Research Assistant at the ModLab of the GRASP Laboratory at the University of Pennsylvania under the supervision of Prof. Mark Yim, where I focus on upgrading the SMORES robot and building simulations. Additionally, I contribute to the Little Flo Robot project at the Rehabilitation Robotics Lab, improving robotic systems for patient rehabilitation.
 
@@ -57,4 +57,4 @@ I am currently working as a Research Assistant at the ModLab of the GRASP Labora
 - **IoT Humidifier**  
   Created a cloud-connected humidifier with real-time monitoring using C and MQTT.
 
-For more detailed information about my projects and research, feel free to explore the rest of the site or check out my [GitHub profile](https://github.com/Hz996) and [LinkedIn page](https://www.linkedin.com/in/hao-zhang-968630273).
+For more detailed information about my projects and research, feel free to explore the rest of the site or check out my [GitHub profile](https://github.com/Hz996) and [LinkedIn page](https://www.linkedin.com/in/hao-zhang-968630273/).
